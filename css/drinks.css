@@ -1,0 +1,214 @@
+@media only screen and   (max-width:1000px)
+{body{
+    background-color:brown;
+    
+}}
+.sam
+{
+   font-size: 30px;
+}
+.container
+{
+   border: 3px black solid;
+   width: 380px;
+   padding-left: 20px;
+   margin-right: auto;
+   margin-top: 50px;
+   padding-bottom: 20px;
+   border-radius: 40PX;
+   background-color: white;
+   
+   
+}
+.container1
+{
+   border: 3px black solid;
+   width: 380px;
+   padding-left: 20px;
+   margin-right: auto;
+   margin-top: 50px;
+   padding-bottom: 20px;
+   border-radius: 40PX;
+   background-color: white
+}
+.kac
+{
+   height: 200px;
+   width: 360px;
+   border-radius: 25px;
+}
+
+body{
+   background-color: rgba(234, 210, 133, 0.856);
+   background-size: cover;
+   
+}
+.h
+{
+   text-align: center;
+   color:#060707;
+   background-color: #e4c1a6;
+}
+.rt 
+{
+   list-style: none;
+   display: flex;
+   
+   margin-left: 5px;
+}
+.rs
+{
+   display: flex;
+}
+.container2
+{
+   border: 3px black solid;
+   width: 380px;
+   padding-left: 20px;
+   margin-right: auto;
+   margin-top: 50px;
+   padding-bottom: 20px;
+   border-radius: 40PX;
+   background-color: white;
+}
+.rr
+{
+   display: flex;
+}
+.container:hover
+{
+   border: 4px black solid;
+   width: 400px;
+   padding-left: 20px;
+   margin-right: auto;
+   margin-right: auto;
+   padding-bottom: 20px;
+   border-radius: 50PX;
+   padding-right: 20px;
+   cursor: pointer;
+   background-color: #e6c5ac;  
+   box-shadow: black 10PX 5PX 10PX 5PX;
+}
+.container1:hover
+{
+   border: 4px black solid;
+   width: 400px;
+   padding-left: 20px;
+   margin-right: auto;
+   margin-right: auto;
+   padding-bottom: 20px;
+   border-radius: 50PX;
+   padding-right: 20px;
+   cursor: pointer;
+   background-color: #e6c5ac; 
+   box-shadow: black 10PX 5PX 10PX 5PX; 
+}
+.container2:hover
+{
+   border: 4px black solid;
+   width: 400px;
+   padding-left: 20px;
+   margin-right: auto;
+   margin-right: auto;
+   padding-bottom: 20px;
+   border-radius: 50PX;
+   padding-right: 20px;
+   cursor: pointer;
+   background-color: #e6c5ac;  
+   box-shadow: black 10PX 5PX 10PX 5PX;
+}
+.box
+    {
+      background-color: black ;
+      height: 500px;
+      text-align: center;
+      color: white;
+      font-size: 30px;
+      margin-top: 100px;
+      margin-bottom:10px;
+      margin-left:0px;
+      margin-right:1px;
+      padding-top: 10px;
+      padding-bottom: 10px;
+    }
+    .box img{
+      height: 50px;
+      background-color:transparent;
+      width:50px;
+      padding:10px;
+      margin:10px;
+    }
+    .T
+    {
+      background-color: #bd977a;
+      border-radius: 10PX 10PX 10PX 10px;
+      font-size: large;
+    }
+    .T:hover
+    {
+      background-color:#daa278;
+      border-radius: 15PX 15PX 15PX 15px;
+      font-size: large;
+    }
+    .rt-1
+    {
+      list-style: none;
+      display: flex;
+      
+      margin-left: 5px;
+    }
+    .rt-2
+    {
+      list-style: none;
+      display: flex;
+      margin-left: 5px;
+    }
+    .rt-3
+    {
+      list-style: none;
+      display: flex;
+      margin-left: 5px;
+    }
+    .kac:hover
+    {
+       height: 200px;
+       width: 380px;
+   }
+   .navbar
+    {
+       height : 12%;
+       display : flex;
+       align-items: center;
+       background-color: #060707;
+       border-style: groove;
+       color: white;
+       width: 1300px;
+       padding : 10px;
+    }
+    .logo
+    {
+       height: 70px;
+       cursor: pointer;
+    }
+    nav{
+       flex: 1;
+       text-align: right;
+       transition: 0.5s;
+ 
+    }
+    nav ul li{
+       list-style: none;
+       display: inline-block;
+       margin-left: 60px;
+       cursor: pointer;
+       transition: 1s;
+       background-color: #060707;
+       padding: 10px;
+    }
+    nav ul li a{
+       text-decoration: none;
+       color: white;
+       font-size: 18px;
+       cursor: pointer;
+    }
+    
